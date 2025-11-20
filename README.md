@@ -6,7 +6,7 @@ Wir interessieren uns dafür, wie die Entwicklung der Textproduktionsfähigkeite
 Dieser Frage verbindet uns mit anderen Forschenden, im Netzwerk LANDINGS, das sich mit sprachliche Entwicklungsverläufe neu zugewanderter Schüler:innen mit besonderem Schwerpunkt auf literale Entwicklung befasst. 
 Mehr Informationen zur LANDINGS-Gruppe: https://landings.uni-koeln.de/
 
-			
+		
 ## Mitmachen
 
 Sie sind im Bereich DaZ an Sekundarschulen tätig und wollen Teil des Projekts werden? 
@@ -16,6 +16,7 @@ Nehmen Sie gerne unverbindlich Kontakt zu uns auf, wenn Sie interesse haben an e
 ## Kontakt:
 
 Matthias Schwendemann: matthias.schwendemann@fau.de
+
 Julia Schlauch: julia.s.schlauch@germanistik.uni-giessen.de
 
 ## Lizenz
