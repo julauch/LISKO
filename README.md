@@ -10,8 +10,8 @@ Mehr Informationen zur LANDINGS-Gruppe: https://landings.uni-koeln.de/
 ## Mitmachen
 
 Sie sind im Bereich DaZ an Sekundarschulen tätig und wollen Teil des Projekts werden? 
-Aktuell führen wir Expter:innen-Interviews zum Schreiben und dem Umgang mit Textproduktionen in Intensivklassen, DaZ-Fördermaßnahmen und bei neu zugewanderten Schüler:innen in Regelklassen durch.
-Nehmen Sie gerne unverbindlich Kontakt zu uns auf, wenn Sie interesse haben an einem Interview teilzunehmen!
+Aktuell führen wir Expert:innen-Interviews zum Schreiben und dem Umgang mit Textproduktionen in Intensivklassen, DaZ-Fördermaßnahmen und bei neu zugewanderten Schüler:innen in Regelklassen durch.
+Nehmen Sie gerne unverbindlich Kontakt zu uns auf, wenn Sie interesse haben, an einem Interview teilzunehmen!
 
 ## Kontakt:
 
