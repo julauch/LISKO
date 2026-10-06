@@ -1,0 +1,82 @@
+;Thema;Frage;Unterfrage;QCAmap_RQ;Beschreibung_QCAmap_RQ;Codierung
+10;BIOGRAPHIE;Könntest du / könnten Sie sich auch einmal kurz vorstellen?;;RQ2;;"RQ2-1: Alter
+RQ2-2:Ausbildung/ Berufserfahrung
+RQ2-3: Schulform
+RQ2-4: Unterrichtsfächer"
+21;KONTEXT;Können Sie kurz darstellen, wie die schulische Integration von neu zugewanderten Schüler:innen an Ihrer Schule abläuft?;Welches Beschulungsmodell wird an Ihrer Schule verfolgt? (z. B. separierte Förderung, teilintegrative Förderung)? [Sollte entsprechend erläutert werden, kann bei Bedarf unsererseits ausformuliert werden.] Wenn Ihre Schule Teilintegration ermöglicht, in welcher Form geschieht das genau?;RQ3;Organisatorische Kontextbedingungen ;"RQ3-2: Aufnahme von Schüler:innen
+RQ3-3 Zuweisung / Einteilung in Klassen 
+RQ3-5: Ablauf der Integration (Teilintegration)
+RQ3-4 Grundlegende Unterrichtsorganisation
+RQ3-7: (Sprachliche) Einstufung zu Beginn der Beschulung "
+22;KONTEXT;Können Sie kurz darstellen, wie die schulische Integration von neu zugewanderten Schüler:innen an Ihrer Schule abläuft?;Wie viele Schüler:innen bzw. Intensivklassen gibt es?;RQ3;Organisatorische Kontextbedingungen ;RQ3-1 Anzahl IKLs / Willkommensklassen / Vorbereitungsklassen / Anzahl SuS pro Klasse
+23;KONTEXT;Können Sie kurz darstellen, wie die schulische Integration von neu zugewanderten Schüler:innen an Ihrer Schule abläuft?;Wie viele Lehrer:innen sind im IKL- bzw. DaZ-Bereich tätig?;RQ3;Organisatorische Kontextbedingungen ;RQ3-6: Anzahl Lehrkräfte in IKLs/ Lehrkräfte in IKLs
+31;KONTEXT;Wie sieht der Unterricht in den Intensivklassen aus?;Wie viele Unterrichtsstunden pro Woche?;RQ4;Klare Beschreibung von Unterrichtszusammenhängen und Rahmenbedinungen / Organisation des Unterrichts ;RQ3-4: Grundlegende Unterrichtsorganisation
+31;KONTEXT;Wie sieht der Unterricht in den Intensivklassen aus?;Welche Fächer in welchem Umfang?;RQ4;Klare Beschreibung von Unterrichtszusammenhängen und Rahmenbedinungen / Organisation des Unterrichts ;"RQ4-1: DaZ-Stunden in der Intensivklasse
+RQ4-6: (Sprachsensibler) Fachunterricht in der Intensivklasse
+"
+31;KONTEXT;Wie sieht der Unterricht in den Intensivklassen aus?;Wie und von wem werden Unterrichtsinhalte festgelegt? (Gibt es ein Curriculum?);RQ4;Klare Beschreibung von Unterrichtszusammenhängen und Rahmenbedinungen / Organisation des Unterrichts ;"RQ4-3: DaZ-Material
+RQ4-4: Curriculum / Vorgaben Intensivklasse"
+41;KONTEXT;Gibt es Sprachförderangebote außerhalb bzw. zeitlich nach den Intensivklassen?;;RQ5;;"RQ5-1: Zusätzliche Förderangebote
+RQ5-2: Bewertung von Angeboten
+RQ5-3: Zugang/Verpflichtung 
+RQ5-4: Inhalte/Ziele"
+42;KONTEXT;Können Sie kurz darstellen, wie die schulische Integration von neu zugewanderten Schüler:innen an Ihrer Schule abläuft?;Sonstiges/unprompted information;RQ3;Organisatorische Kontextbedingungen ;"RQ3-8 Konkretes Beispiel für Ablauf einer schulischen Integration 
+RQ3-9: Herausforderungen"
+61;DIAGNOSTIK;Wie wird die sprachliche Entwicklung der Schüler:innen (in den IKLs) erfasst? … zu unterschiedlichen Zeiten, zu unterschiedlichen Zwecken …;Gibt es eine Eingangsdiagnostik? In welcher Form? Ggf. mit bestimmten Instrumenten?;RQ6;Aussagen zur Diagnostik und deren Relevanz für Übergänge, NICHT Gestaltung der Übergänge an sich ;RQ6-14: Eingangsdiagnostik/Zuteilung
+62;DIAGNOSTIK;Wie wird die sprachliche Entwicklung der Schüler:innen (in den IKLs) erfasst? … zu unterschiedlichen Zeiten, zu unterschiedlichen Zwecken …;Findet in den IKLs eine Verlaufsdiagnostik statt? In welcher Form? Ggf. mit bestimmten Instrumenten?;RQ6;Aussagen zur Diagnostik und deren Relevanz für Übergänge, NICHT Gestaltung der Übergänge an sich ;"RQ6-6: Verlaufsdiagnostik
+RQ6-12: Korrekturen/Feedback
+RQ6-10: Getestete Kompetenzen
+RQ6-15: Diagnostik in der Regelklasse"
+63;DIAGNOSTIK;Wie wird die sprachliche Entwicklung der Schüler:innen (in den IKLs) erfasst? … zu unterschiedlichen Zeiten, zu unterschiedlichen Zwecken …;Wer ist für die Durchführung zuständig?;RQ6;Aussagen zur Diagnostik und deren Relevanz für Übergänge, NICHT Gestaltung der Übergänge an sich ;"RQ6-5: Verantwortung der Lehrkräfte
+"
+63;DIAGNOSTIK;Wie wird die sprachliche Entwicklung der Schüler:innen (in den IKLs) erfasst? … zu unterschiedlichen Zeiten, zu unterschiedlichen Zwecken …;Wer ist für die Durchführung zuständig?;RQ6;Aussagen zur Diagnostik und deren Relevanz für Übergänge, NICHT Gestaltung der Übergänge an sich ;"
+RQ6-6: Verlaufsdiagnostik"
+64;DIAGNOSTIK;Wie wird die sprachliche Entwicklung der Schüler:innen (in den IKLs) erfasst? … zu unterschiedlichen Zeiten, zu unterschiedlichen Zwecken …;Für wen sind die Ergebnisse zugänglich?;RQ6;Aussagen zur Diagnostik und deren Relevanz für Übergänge, NICHT Gestaltung der Übergänge an sich ;
+65;DIAGNOSTIK;Wie wird die sprachliche Entwicklung der Schüler:innen (in den IKLs) erfasst? … zu unterschiedlichen Zeiten, zu unterschiedlichen Zwecken …;Wofür werden die Ergebnisse genutzt? (z. B. Übergangsentscheidungen?);RQ6;Aussagen zur Diagnostik und deren Relevanz für Übergänge, NICHT Gestaltung der Übergänge an sich ;"
+RQ6-7: Nutzung diagnostischer Ergebnisse"
+66;DIAGNOSTIK;Wie wird die sprachliche Entwicklung der Schüler:innen (in den IKLs) erfasst? … zu unterschiedlichen Zeiten, zu unterschiedlichen Zwecken …;Wie schätzen Sie die Aussagekraft dieser Diagnoseergebnisse als Grundlage der Übergangsentscheidungen ein?;RQ6;Aussagen zur Diagnostik und deren Relevanz für Übergänge, NICHT Gestaltung der Übergänge an sich ;RQ6-8: Aussagekraft diagnostischer Ergebnisse
+67;DIAGNOSTIK;Wie wird die sprachliche Entwicklung der Schüler:innen (in den IKLs) erfasst? … zu unterschiedlichen Zeiten, zu unterschiedlichen Zwecken …;Welche Rolle spielen verschiedene sprachliche Kompetenzen bei der Kompetenzerfassung / Diagnostik? (*mündlich/schriftlich/produktiv/rezeptiv*);RQ6;Aussagen zur Diagnostik und deren Relevanz für Übergänge, NICHT Gestaltung der Übergänge an sich ;"RQ6-10: Getestete Kompetenzen
+RQ6-9: Individuelle Faktoren
+RQ6-11: Relevanz von Textproduktionen
+RQ6-7: Relevanz der Ergebnisse"
+68;DIAGNOSTIK;Wie wird die sprachliche Entwicklung der Schüler:innen (in den IKLs) erfasst? … zu unterschiedlichen Zeiten, zu unterschiedlichen Zwecken …;Sonstiges/unprompted information;RQ6;Aussagen zur Diagnostik und deren Relevanz für Übergänge, NICHT Gestaltung der Übergänge an sich ;"RQ6-1 Nachteilsausgleich
+RQ6-2 Mehrsprachigkeit
+RQ6-13: Verbesserungsvorschläge für Diagnostik
+RQ6-4: Probleme im System
+RQ6-3: Mögliche Zitate"
+69;DIAGNOSTIK;Wir gehen davon aus, dass diagnostische Entscheidungen vor allem an Textproduktionen hängen. Wie positionieren Sie sich dazu?;;RQ6;;"RQ6-11: Relevanz von Textproduktionen 
+RQ9-3: Rolle von Textproduktionen beim Übergang"
+91;SCHREIBFORMATE;Wie viel wird in Ihrer IKL geschrieben? // Könnten Sie uns etwas dazu sagen, wie Textproduktionen in Ihrer Klasse stattfinden?;Wie häufig wird geschrieben im Verhältnis zu anderen Fertigkeiten (Anteile, ca.);RQ18;;RQ18-5: Schreiben im Verhältnis zu anderen Fertigkeiten
+91;SCHREIBFORMATE;Wie viel wird in Ihrer IKL geschrieben? // Könnten Sie uns etwas dazu sagen, wie Textproduktionen in Ihrer Klasse stattfinden?;Wie häufig wird geschrieben? (individuell und in der ganzen Klasse);RQ18;;RQ18-2: Häufigkeit von Textproduktionen
+92;SCHREIBFORMATE;Wie viel wird in Ihrer IKL geschrieben? // Könnten Sie uns etwas dazu sagen, wie Textproduktionen in Ihrer Klasse stattfinden?;Welche Aufgaben kommen zum Einsatz?;RQ18;;RQ18-4: Schreibaufgaben
+92;SCHREIBFORMATE;Wie viel wird in Ihrer IKL geschrieben? // Könnten Sie uns etwas dazu sagen, wie Textproduktionen in Ihrer Klasse stattfinden?;Welche Texte werden produziert?;RQ18;;RQ18-1: Formen von Texproduktionen
+93;SCHREIBFORMATE;Wie viel wird in Ihrer IKL geschrieben? // Könnten Sie uns etwas dazu sagen, wie Textproduktionen in Ihrer Klasse stattfinden?;Welche Vorentlastungen / Unterstützung beim Schreiben finden statt?;RQ18;;RQ18-3: Vorentlastung, Unterstützung beim Schreiben
+101;VERLAUF;Könnten Sie einen beispielhaften / optimalen Verlauf für uns skizzieren? Gibt es Meilensteine? Oder bestimmte Vorgaben, Testzeitpunkte? (> ggf. anhand von Fällen (konkreter));Wie stellt sich die Abfolge verschiedener Aufgaben / Texttypen im zeitlichen Verlauf für Sie dar?;RQ18;;RQ18-6: Abfolge von Schreibformaten
+102;VERLAUF;Könnten Sie einen beispielhaften / optimalen Verlauf für uns skizzieren? Gibt es Meilensteine? Oder bestimmte Vorgaben, Testzeitpunkte? (> ggf. anhand von Fällen (konkreter));Wie wählen Sie die Aufgaben aus?;RQ18;;RQ18-7: Auswahl von Schreibaufgaben
+102;VERLAUF;Könnten Sie einen beispielhaften / optimalen Verlauf für uns skizzieren? Gibt es Meilensteine? Oder bestimmte Vorgaben, Testzeitpunkte? (> ggf. anhand von Fällen (konkreter));Welche Lehr-/Lern- oder andere Materialien nutzen Sie dafür?;RQ18;;RQ18-8: Material für Schreibaufgaben
+103;VERLAUF;Könnten Sie einen beispielhaften / optimalen Verlauf für uns skizzieren? Gibt es Meilensteine? Oder bestimmte Vorgaben, Testzeitpunkte? (> ggf. anhand von Fällen (konkreter));Wann und wie produzieren Schüler:innen in Ihrer Klasse Texte vor allem ‚eigenständig‘ und mit einem ‚gewissen‘ Umfang?* ;RQ18;;RQ18-9: Eigenständigkeit im Verlauf
+111;TEXTSAMPLE;Könnten Sie den Text für uns bewerten bzw. einschätzen / welchen EINDRUCK haben Sie von diesem Text?;Wie schätzen Sie den Sprachstand ein?;RQ7;;RQ7-3: Einschätzung Sprachstand
+112;TEXTSAMPLE;Könnten Sie den Text für uns bewerten bzw. einschätzen / welchen EINDRUCK haben Sie von diesem Text?;Können Sie eine Prognose abgeben, wie Texte der Schüler:in hinsichtlich der Anforderungen in Regelklassen bewertet werden würden?;RQ7;;RQ7-5: Prognose für Regelklasse
+113;TEXTSAMPLE;Könnten Sie den Text für uns bewerten bzw. einschätzen / welchen EINDRUCK haben Sie von diesem Text?;Könnten Sie Ihre Einschätzungen für uns begründen / erörtern?;RQ7;;RQ7-6: Begründung Einschätzung
+114;TEXTSAMPLE;Könnten Sie den Text für uns bewerten bzw. einschätzen / welchen EINDRUCK haben Sie von diesem Text?;Welche Eigenschaften des Textes sind dafür (Ihrer Meinung nach) besonders relevant?;RQ7;;RQ7-4: Texteigenschaften
+121;BEWERTUNGSDIMENSIONEN;Wie gehen Sie generell mit den Texten um?;Geben Sie Feedback, machen Sie Korrekturvorschläge und / oder leiten Sie Überarbeitungen von Texten an? Und wenn ja, in welcher Form?;RQ8;;RQ8-3: Feedback / Korrekturen / Überarbeitungsanleitung zu geschriebenen Texten
+122;BEWERTUNGSDIMENSIONEN;Wie gehen Sie generell mit den Texten um?;Wie lassen Sie die Schüler ggf. in Gruppenarbeit überarbeiten?;RQ8;;RQ8-5: Überarbeitungsformen
+123;BEWERTUNGSDIMENSIONEN;Wie gehen Sie generell mit den Texten um?;Erstellen Sie Musterlösungen? Und wie arbeiten die SuS damit? Wie begleiten Sie den Prozess?;RQ8;;RQ8-6: Überarbeitungsprozesse
+131;Übergänge;Wie werden Übergänge von initialen Beschulungskontexten in die Regelklasse gestaltet?;Fluktuation nach der IKL: Bleiben die Schüler:innen an der Schule?;RQ9;;RQ9-1: Fluktuation nach der IKL
+133;Übergänge;Wie werden Übergänge von initialen Beschulungskontexten in die Regelklasse gestaltet?;"(1) Was braucht eine SuS Ihrer Meinung nach für den Übergang in die Regelklasse? / um am Unterricht in der Regelklasse partizipieren zu können?  
+(2) Wovon hängt Ihrer Meinung nach ab, ob Schüler:innen mit den sprachlichen Anforderungen im Regelunterricht gut zurechtkommen? Welche Faktoren begünstigen Ihrer Erfahrung nach einen erfolgreichen Übergang in die Regelklasse?
+";RQ9;;"RQ9-4 Gelingensfaktoren beim Übergang
+RQ9-11: Fertigkeiten beim Übergang"
+132;Übergänge;Wie werden Übergänge von initialen Beschulungskontexten in die Regelklasse gestaltet?;"(1) Insbesondere in Bezug auf (die Produktion) von Texten?
+(1) *Werden diese Anforderungen in der Vorbereitung gezielt thematisiert? Gibt es dazu Absprachen zwischen DaZ- und Fachlehrkräften?*
+(1) Welche Texte aus der IKL halten Sie für besonders relevant für die Aneignung der Partizipationsfähigkeit im Regelunterricht? (> abhängig vom Fach?!, woher kommen die Texte für IKL oder den Regelunterricht/Teilintegration)";RQ9;;"RQ9-3: Rolle von Textproduktionen
+RQ9-8: Akteur:innen am Übergang 
+RQ9-9: Förderpläne"
+134;Übergänge;Wie werden Übergänge von initialen Beschulungskontexten in die Regelklasse gestaltet?;Gibt es ein bestimmtes sprachliches [oder fachliches] Niveau, das vor dem Übergang erreicht sein sollte? … Ihrer Einschätzung nach … Minimalanforderungen (?);RQ9;;RQ9-7 Relevanz von Sprachstandsmessungen/Diagnostik für Übergänge
+135;Übergänge;Wie werden Übergänge von initialen Beschulungskontexten in die Regelklasse gestaltet?;"(1) Welche sprachlichen Herausforderungen sehen Sie für neu zugewanderte Schüler:innen im Regelunterricht? Gibt es Fächer, in denen der Übergang sprachlich besonders herausfordernd ist?
+(2) *Wie gut sind die Schüler:innen Ihrer Einschätzung nach auf typische Kommunikationssituationen und sprachliche Herausforderungen im Regelunterricht vorbereitet (z. B. Arbeitsaufträge verstehen, Gruppenarbeit)?*";RQ9;;"RQ9-2: Sprachliche Herausforderungen beim Übergang
+RQ9-5: Herausfordernde Fächer
+RQ9-9: Abschlussrelevantes"
+136;Übergänge;Wie werden Übergänge von initialen Beschulungskontexten in die Regelklasse gestaltet?;Sonstiges;RQ9;;"RQ9-6: Herausforderungen für Lehrkräfte
+RQ9-12: Krisen- und Entscheidungsmomente
+"
